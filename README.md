@@ -19,6 +19,8 @@
 1. Copy repo:
    
 `git clone https://github.com/grsahagian/carfax-scraper`
+
+
 2. Install dependencies (requirements.txt)
    
 #### Get Authorization code
