@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../camp_resource_scraper/.idea/camp_resource_scraper.iml" filepath="$PROJECT_DIR$/../camp_resource_scraper/.idea/camp_resource_scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/carfax_webscraper.iml" filepath="$PROJECT_DIR$/.idea/carfax_webscraper.iml" />
+    </modules>
+  </component>
+</project>
