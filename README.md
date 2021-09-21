@@ -33,4 +33,4 @@
 8. In the command line navigate to the project folder and run `python main.py`
 
 
-
+Special thanks to Michael (https://github.com/Michael001154) for help developing the project
